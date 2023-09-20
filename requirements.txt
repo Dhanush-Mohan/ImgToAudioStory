@@ -1,0 +1,7 @@
+langchain==0.0.295
+Pillow==9.4.0
+Pillow==10.0.1
+python-dotenv==1.0.0
+Requests==2.31.0
+streamlit==1.17.0
+transformers==4.27.4
